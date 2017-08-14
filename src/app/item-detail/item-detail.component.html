@@ -1,0 +1,8 @@
+<h1 *ngIf="isOrder">Товар добавлен в корзину</h1>
+<md-card *ngIf="item">
+  <md-card-title>{{item.title}}</md-card-title>
+  <md-card-content [innerHtml]="item.description"></md-card-content>
+  <md-card-actions>
+    <button md-button>{{item.price}}</button>
+  </md-card-actions>
+</md-card>

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0",
+        "title": "title 1",
+        "description": "description 1",
+        "price": "230 Euro"
+    },
+    {
+        "id": "1",
+        "title": "title 2",
+        "description": "description 2",
+        "price": "250 Euro"
+    },
+    {
+        "id": "2",
+        "title": "title 3",
+        "description": "description 3",
+        "price": "270 Euro"
+    }
+]
